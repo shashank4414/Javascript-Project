@@ -1,0 +1,14 @@
+[
+{
+  "country":"Canada",
+  "city":["Montreal","Welland"] 
+},
+{
+  "country":"Germany",
+  "city":"Berlin"
+},
+{
+  "country":"France",
+  "city":["Paris","Nice"]
+}
+]
