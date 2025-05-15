@@ -1,14 +1,14 @@
 [
-{
-  "country":"Canada",
-  "city":["Montreal","Welland"] 
-},
-{
-  "country":"Germany",
-  "city":"Berlin"
-},
-{
-  "country":"France",
-  "city":["Paris","Nice"]
-}
+    {
+        "country": "Canada",
+        "cities": ["Toronto", "Niagara Falls", "Hamilton", "Missisauga"]
+    },
+    {
+        "country": "United States of America",
+        "cities": ["New York", "LA", "Chicago", "Seattle"]
+    },
+    {
+        "country": "Japan",
+        "cities": ["Tokyo", "Osaka", "Kyoto", "Sapporo"]
+    }
 ]
